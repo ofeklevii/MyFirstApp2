@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.graphics.Color;
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -21,7 +22,5 @@ public class MainActivity extends AppCompatActivity {
         tv.setTextColor(Color.BLUE);
         tv.setTextSize(50);
         tv1.setTextSize(50);
-        tv1.setWidth(200);
-        tv.setWidth(350);
     }
 }
