@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
         tv1.setText("2");
         tv1.setTextColor(Color.MAGENTA);
         tv.setTextColor(Color.GRAY);
-        tv.setTextSize(45);
-        tv1.setTextSize(45);
+        tv.setTextSize(50);
+        tv1.setTextSize(50);
     }
 
     public void go(View view) {
